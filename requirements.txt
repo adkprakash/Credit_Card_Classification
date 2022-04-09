@@ -135,19 +135,19 @@ patsy==0.5.1
 pep8==1.7.1
 pexpect==4.8.0
 pickleshare==0.7.5
-Pillow @ file:///C:/ci/pillow_1594298230227/work
+Pillow 
 pkginfo==1.5.0.1
 pluggy==0.13.1
 ply==3.11
 prometheus-client==0.8.0
 prompt-toolkit==3.0.5
 psutil==5.7.0
-py @ file:///tmp/build/80754af9/py_1593446248552/work
+py 
 pycodestyle==2.6.0
 pycosat==0.6.3
-pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+pycparser 
 pycurl==7.43.0.5
-pydocstyle @ file:///tmp/build/80754af9/pydocstyle_1592848020240/work
+pydocstyle 
 pyflakes==2.2.0
 Pygments==2.6.1
 pylint @ file:///C:/ci/pylint_1592482039483/work

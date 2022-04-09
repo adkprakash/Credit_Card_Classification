@@ -62,7 +62,7 @@ greenlet==0.4.16
 h5py==2.10.0
 HeapDict==1.0.1
 html5lib 
-idna @ file:///tmp/build/80754af9/idna_1593446292537/work
+idna 
 imageio @ file:///tmp/build/80754af9/imageio_1594161405741/work
 imagesize==1.2.0
 imbalanced-learn==0.8.1

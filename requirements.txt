@@ -63,7 +63,7 @@ h5py==2.10.0
 HeapDict==1.0.1
 html5lib 
 idna 
-imageio @ file:///tmp/build/80754af9/imageio_1594161405741/work
+imageio 
 imagesize==1.2.0
 imbalanced-learn==0.8.1
 imblearn==0.0

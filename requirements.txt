@@ -123,7 +123,7 @@ numpydoc
 olefile==0.46
 openpyxl 
 packaging==20.4
-pandas @ file:///C:/ci/pandas_1592833613419/work
+pandas 
 pandocfilters==1.4.2
 paramiko==2.7.1
 parso==0.7.0

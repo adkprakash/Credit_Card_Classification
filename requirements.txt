@@ -67,7 +67,7 @@ imageio @ file:///tmp/build/80754af9/imageio_1594161405741/work
 imagesize==1.2.0
 imbalanced-learn==0.8.1
 imblearn==0.0
-importlib-metadata @ file:///C:/ci/importlib-metadata_1593446511143/work
+importlib-metadata 
 intervaltree @ file:///tmp/build/80754af9/intervaltree_1594361675072/work
 ipykernel @ file:///C:/ci/ipykernel_1594745408489/work/dist/ipykernel-5.3.2-py3-none-any.whl
 ipython @ file:///C:/ci/ipython_1593447482397/work

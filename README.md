@@ -2,7 +2,7 @@
    This project predicts whether the customer is good or bad for credit card.
 
  1.Installation Process
-  -   Download all files from github.
+  -   Clone project from github.
   -   Open anaconda prompt.
   -   write a command to open specific directory where you had have downloaded the files.
   -   write a command: python app.py

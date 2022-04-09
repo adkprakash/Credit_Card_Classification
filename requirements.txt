@@ -88,7 +88,7 @@ jupyter-console==6.1.0
 jupyter-core==4.6.3
 jupyterlab==2.1.5
 jupyterlab-server 
-keyring @ file:///C:/ci/keyring_1593109799227/work
+keyring 
 kiwisolver==1.2.0
 lazy-object-proxy==1.4.3
 libarchive-c==2.9

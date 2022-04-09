@@ -183,7 +183,6 @@ spyder==4.1.4
 spyder-kernels
 SQLAlchemy 
 sympy 
-tables==3.6.1
 tblib==1.6.0
 terminado==0.8.3
 testpath==0.4.4

@@ -96,7 +96,7 @@ llvmlite==0.33.0+1.g022ab0f
 locket==0.2.0
 lxml 
 MarkupSafe==1.1.1
-matplotlib @ file:///C:/ci/matplotlib-base_1592837548929/work
+matplotlib 
 mccabe==0.6.1
 menuinst==1.4.16
 missingno==0.5.0

@@ -150,18 +150,18 @@ pycurl==7.43.0.5
 pydocstyle 
 pyflakes==2.2.0
 Pygments==2.6.1
-pylint @ file:///C:/ci/pylint_1592482039483/work
-PyNaCl @ file:///C:/ci/pynacl_1595000047588/work
+pylint 
+PyNaCl 
 pyodbc===4.0.0-unsupported
-pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1594392929924/work
+pyOpenSSL 
 pyparsing==2.4.7
 pyreadline==2.1
 pyrsistent==0.16.0
 PySocks==1.7.1
 pytest==5.4.3
 python-dateutil==2.8.1
-python-jsonrpc-server @ file:///tmp/build/80754af9/python-jsonrpc-server_1594397536060/work
-python-language-server @ file:///C:/ci/python-language-server_1594162130238/work
+python-jsonrpc-server 
+python-language-server 
 pytz==2020.1
 PyWavelets==1.1.1
 pywin32==227
@@ -171,7 +171,7 @@ PyYAML==5.3.1
 pyzmq==19.0.1
 QDarkStyle==2.8.1
 QtAwesome==0.7.2
-qtconsole @ file:///tmp/build/80754af9/qtconsole_1592848611704/work
+qtconsole 
 QtPy==1.9.0
 regex @ file:///C:/ci/regex_1593419644658/work
 requests @ file:///tmp/build/80754af9/requests_1592841827918/work

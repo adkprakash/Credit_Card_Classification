@@ -160,7 +160,6 @@ regex
 requests 
 rope==0.17.0
 ruamel-yaml==0.15.87
-scikit-image==0.16.2
 scikit-learn==1.0.1
 scipy 
 seaborn==0.10.1
